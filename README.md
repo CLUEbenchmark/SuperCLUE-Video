@@ -1,6 +1,7 @@
 # SuperCLUE-Video
 中文原生多层次文生视频测评基准
 
+推文地址：<a href='https://mp.weixin.qq.com/s/bZD4nBYadbr_CvH1IvfO5w'>https://mp.weixin.qq.com/s/bZD4nBYadbr_CvH1IvfO5w</a>
 
 ## 介绍
 近年来，自然语言处理和计算机视觉领域见证了如ChatGPT/GPT-4和Stable Diffusion/Midjourney等大型模型的飞跃发展，它们在文本和图像生成方面的能力令人瞩目。

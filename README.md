@@ -17,16 +17,16 @@
 
 项目地址：https://github.com/CLUEbenchmark/SuperCLUE-Video
 
-<img src="https://github.com/CLUEbenchmark/SuperCLUE-Viedo/blob/main/resources/img/xiang.png"  width="70%" height="70%"></img>
+<img src="https://github.com/CLUEbenchmark/SuperCLUE-Viedo/blob/main/resources/img/xiang.png"  width="80%" height="80%"></img>
 
 提示词：几头巨大的长毛猛犸象踏过雪地草甸缓缓而行，它们那长长的毛发在微风中轻轻飘扬，远处覆盖着雪的树木和壮观的雪顶山峰，午后的光线透过朵朵薄云，阳光高挂在远方，营造出一片温暖的光晕。低角度的镜头非常惊艳，捕捉到这些大型毛茸茸哺乳动物的美丽镜头，景深效果显著。
 
-<img src="https://github.com/CLUEbenchmark/SuperCLUE-Viedo/blob/main/resources/img/long.png"  width="70%" height="70%"></img>
+<img src="https://github.com/CLUEbenchmark/SuperCLUE-Viedo/blob/main/resources/img/long.png"  width="80%" height="80%"></img>
 
 提示词：一段庆祝中国农历新年的视频，里面有舞龙表演。
 
 ## SuperCLUE-Video
-<img src="https://github.com/CLUEbenchmark/SuperCLUE-Viedo/blob/main/resources/img/viedo_systems.jpeg"  width="70%" height="70%"></img>
+<img src="https://github.com/CLUEbenchmark/SuperCLUE-Viedo/blob/main/resources/img/viedo_systems.jpeg"  width="80%" height="80%"></img>
 
 ### 2.1 特点
 #### 1) 中文原生文生图视频能力评估
@@ -40,7 +40,7 @@
 针对重点领域，影视、短视频、广告、娱乐等，展开评估。
 考察的场景，如在提供符合中文语境的创意脚本生成、本土化的品牌营销策略、为娱乐内容添加独特的中文文化内涵及地域文化的特色元素设计等方面。
 
-<img src="https://github.com/CLUEbenchmark/SuperCLUE-Viedo/blob/main/resources/img/yangshi_qianqiu.jpeg"  width="70%" height="70%"></img>
+<img src="https://github.com/CLUEbenchmark/SuperCLUE-Viedo/blob/main/resources/img/yangshi_qianqiu.jpeg"  width="80%" height="80%"></img>
 
 
 ### 2.2 评估方法与思路
@@ -60,7 +60,7 @@
 比如，针对雪地巨象漫步在午后阳光下的冬日仙境这个视频的【文本与视频对齐】这个一级维度，使用对象一致性、要素完整性、特征准确性、程度区分、时空表现四个具体维度进行评估。具体的说：
 在对象一致性中，大象外观“体型”是否保持一致；要素完整性中，是否出现了“多头”大象；特征准确性中，是否有存在“雪地”；程度区分中，大象是“行走速度”如何（缓缓而行）；时空表现中，大象的“毛发飘扬”是否顺着时间展开有所体现。
 
-<img src="https://github.com/CLUEbenchmark/SuperCLUE-Viedo/blob/main/resources/img/xiang_example.png"  width="70%" height="70%"></img>
+<img src="https://github.com/CLUEbenchmark/SuperCLUE-Viedo/blob/main/resources/img/xiang_example.png"  width="80%" height="80%"></img>
 
 提示词：几头巨大的长毛猛犸象踏过雪地草甸缓缓而行，它们那长长的毛发在微风中轻轻飘扬...
 
@@ -126,19 +126,21 @@
     3.2 申请评测地址
     邮件标题：SuperCLUE-Video测评申请，发送到contact@superclue.ai
     请使用单位邮箱，邮件内容包括：单位信息、文生视频大模型简介、联系人和所属部门、联系方式
-[图片]
-[图片]
+
+## 讨论与交流
+
+<img src="https://github.com/CLUEbenchmark/SuperCLUE-Viedo/blob/main/resources/img/viedo_group.jpeg"  width="30%" height="30%"></img>
+
+<img src="https://github.com/CLUEbenchmark/SuperCLUE-Viedo/blob/main/resources/img/brightmart_s.jpeg"  width="30%" height="30%"></img>
 
 ## 参考资料
-    1.  OpenAI的Sora技术报告
-    2. Vbench论文
-    3. FETV
+    1.OpenAI的Sora技术报告
+    2.Vbench论文
+    3.FETV论文
     FETV: A Benchmark for Fine-Grained Evaluation of Open-Domain Text-to-Video Generation（NIPS已发表）
-    4. EvalCrafter
+    4.EvalCrafter
     EvalCrafter: Benchmarking and Evaluating Large Video Generation Models,
-    5. 超长文本测评征集文章
+    5.超长文本测评征集文章
     SuperCLUE-200K：中文超长文本基准测评！诚邀“大海捞针”！
-    6. 信通院测评征集文章
-    中国信通院可信AI汽车大模型首批标准符合性验证正式启动
-    7. 代码测评文章发布文章
+    6.代码测评文章发布文章
     SuperCLUE-Code3：中文原生等级化代码能力测评基准

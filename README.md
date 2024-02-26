@@ -17,14 +17,15 @@
 
 项目地址：https://github.com/CLUEbenchmark/SuperCLUE-Video
 
-[图片]
-
+<img src="https://github.com/CLUEbenchmark/SuperCLUE-Viedo/blob/main/resources/img/xiang.png"  width="30%" height="30%"></img>
 提示词：几头巨大的长毛猛犸象踏过雪地草甸缓缓而行，它们那长长的毛发在微风中轻轻飘扬，远处覆盖着雪的树木和壮观的雪顶山峰，午后的光线透过朵朵薄云，阳光高挂在远方，营造出一片温暖的光晕。低角度的镜头非常惊艳，捕捉到这些大型毛茸茸哺乳动物的美丽镜头，景深效果显著。
 
-[图片]
+<img src="https://github.com/CLUEbenchmark/SuperCLUE-Viedo/blob/main/resources/img/long.png"  width="30%" height="30%"></img>
+
 提示词：一段庆祝中国农历新年的视频，里面有舞龙表演。
 
 ## SuperCLUE-Video
+<img src="https://github.com/CLUEbenchmark/SuperCLUE-Viedo/blob/main/resources/img/yangshi_qianqiu.jpeg"  width="30%" height="30%"></img>
 
 ### 2.1 特点
 #### 1) 中文原生文生图视频能力评估
@@ -37,7 +38,9 @@
 #### 3) 应用潜力评估
 针对重点领域，影视、短视频、广告、娱乐等，展开评估。
 考察的场景，如在提供符合中文语境的创意脚本生成、本土化的品牌营销策略、为娱乐内容添加独特的中文文化内涵及地域文化的特色元素设计等方面。
-[图片]
+
+<img src="https://github.com/CLUEbenchmark/SuperCLUE-Viedo/blob/main/resources/img/xiang.png"  width="30%" height="30%"></img>
+
 
 ### 2.2 评估方法与思路
 参考SuperCLUE-Auto细粒度评估方式，构建专用测评集，每个维度进行细粒度的评估并可以提供详细的反馈信息。
@@ -56,7 +59,7 @@
 比如，针对雪地巨象漫步在午后阳光下的冬日仙境这个视频的【文本与视频对齐】这个一级维度，使用对象一致性、要素完整性、特征准确性、程度区分、时空表现四个具体维度进行评估。具体的说：
 在对象一致性中，大象外观“体型”是否保持一致；要素完整性中，是否出现了“多头”大象；特征准确性中，是否有存在“雪地”；程度区分中，大象是“行走速度”如何（缓缓而行）；时空表现中，大象的“毛发飘扬”是否顺着时间展开有所体现。
 
-[图片]
+<img src="https://github.com/CLUEbenchmark/SuperCLUE-Viedo/blob/main/resources/img/xiang_example.png"  width="30%" height="30%"></img>
 提示词：几头巨大的长毛猛犸象踏过雪地草甸缓缓而行，它们那长长的毛发在微风中轻轻飘扬...
 
 ### 2.3 指标体系
